@@ -1,7 +1,7 @@
 # IMDB-Reviews-Sentiment-Aanalysis
 
 This mini project is a quick start to learn how to apply Sentiment Analysis on user reviews.
-I used data from IMDB movie reviews, and Bert model to analyze and preprocess text of each review.
+I used data from IMDB movie reviews, and bert-base-multilingual-uncased model finetuned for sentiment analysis to analyze and preprocess text of each review.
 
 How it works briefly:  
 
@@ -16,5 +16,4 @@ make sure to install pytorch properly from the official website https://pytorch.
 and then install the following dependencies in your terminal:
 
   pip3 install imdbpy 
-  
   pip3 install transformers requests
