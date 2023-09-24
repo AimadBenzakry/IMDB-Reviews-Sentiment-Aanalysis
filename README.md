@@ -14,5 +14,7 @@ How it works briefly:
 ## Installation
 make sure to install pytorch properly from the official website https://pytorch.org/
 and then install the following dependencies in your terminal:
+
   pip3 install imdbpy 
+  
   pip3 install transformers requests
